@@ -1,0 +1,24 @@
+{
+  "Students": [
+    {
+      "Name": "Hovo",
+      "University": {
+        "Name": "Eph"
+      }
+    },
+    {
+      "Name": "Garo",
+      "University": {
+        "Name": "PHS"
+      }
+    }
+  ],
+  "Universities": [
+    {
+      "Name": "Eph"
+    },
+    {
+      "Name": "PHS"
+    }
+  ]
+}

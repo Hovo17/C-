@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Table\\newtn\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4E0BA1-C425-4CF3-A17C-0358D1864E69}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\asus\\onedrive\\table\\newtn\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4E0BA1-C425-4CF3-A17C-0358D1864E69}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4E0BA1-C425-4CF3-A17C-0358D1864E69}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\asus\\onedrive\\table\\newtn\\consoleapp2\\consoleapp2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4E0BA1-C425-4CF3-A17C-0358D1864E69}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4E0BA1-C425-4CF3-A17C-0358D1864E69}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\asus\\onedrive\\table\\newtn\\consoleapp2\\consoleapp2\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4E0BA1-C425-4CF3-A17C-0358D1864E69}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4E0BA1-C425-4CF3-A17C-0358D1864E69}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\asus\\onedrive\\table\\newtn\\consoleapp2\\consoleapp2\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4E0BA1-C425-4CF3-A17C-0358D1864E69}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\OneDrive\\Table\\newtn\\ConsoleApp2\\ConsoleApp2\\bin\\Debug\\net8.0\\data2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\bin\\Debug\\net8.0\\data2.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4E0BA1-C425-4CF3-A17C-0358D1864E69}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\asus\\onedrive\\table\\newtn\\consoleapp2\\consoleapp2\\consoleapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE4E0BA1-C425-4CF3-A17C-0358D1864E69}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\consoleapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Table\\newtn\\ConsoleApp2\\ConsoleApp2\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Student.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Table\\newtn\\ConsoleApp2\\ConsoleApp2\\Student.cs",
+              "RelativeToolTip": "ConsoleApp2\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:58:33.498Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Table\\newtn\\ConsoleApp2\\ConsoleApp2\\Tools.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Tools.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Table\\newtn\\ConsoleApp2\\ConsoleApp2\\Tools.cs",
+              "RelativeToolTip": "ConsoleApp2\\Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T03:00:21.614Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "data2.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Table\\newtn\\ConsoleApp2\\ConsoleApp2\\bin\\Debug\\net8.0\\data2.json",
+              "RelativeDocumentMoniker": "ConsoleApp2\\bin\\Debug\\net8.0\\data2.json",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Table\\newtn\\ConsoleApp2\\ConsoleApp2\\bin\\Debug\\net8.0\\data2.json",
+              "RelativeToolTip": "ConsoleApp2\\bin\\Debug\\net8.0\\data2.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T03:43:08.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleApp2.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Table\\newtn\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ConsoleApp2.csproj",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Table\\newtn\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+              "RelativeToolTip": "ConsoleApp2\\ConsoleApp2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T03:00:12.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "University.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Table\\newtn\\ConsoleApp2\\ConsoleApp2\\University.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\University.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Table\\newtn\\ConsoleApp2\\ConsoleApp2\\University.cs",
+              "RelativeToolTip": "ConsoleApp2\\University.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:56:06.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Table\\newtn\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Table\\newtn\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T02:50:11.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Students": [
+    {
+      "Name": "Hovo",
+      "University": {
+        "Name": "hiushfd",
+        "Department": "fwhfiuw"
+      },
+      "Adress": {
+        "Street": "kjsdfjk",
+        "City": "sdf",
+        "Postcode": "121"
+      }
+    }
+  ],
+  "Workers": [],
+  "Universities": [
+    {
+      "Name": "gdfg",
+      "Department": "ewtwdsf"
+    }
+  ]
+}
